@@ -1,0 +1,31 @@
+*{
+    background-color: pink;
+    color: rgb(66, 33, 33);
+}
+   
+.body{
+    font-style: italic;
+    line-height: 1.6;
+
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    font-style: italic;
+    
+    
+    
+}
+main{
+    padding: 20px;
+
+}
+section{
+    margin-bottom: 20px;
+
+}
+img{
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;}
